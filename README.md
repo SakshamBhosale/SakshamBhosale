@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Saksham Bhosale</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&width=435&lines=Hi+;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Hola;Bonjour;Ciao;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF" alt="Typing SVG" /></a>, I'm Saksham Bhosale</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer%20💻;Always%20learning%20something%20new📚;Let's%20build%20something%20awesome!😎&center=true&width=500&height=45">
