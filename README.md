@@ -1,4 +1,4 @@
-<h1>Hi, I am Saksham BHosale
+<h1 align="center">Hi, I am Saksham Bhosale
 </h1>
 
 <p align="center">
